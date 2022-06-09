@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun  9 09:50:37 2022
 
-@author: Samad
-"""
 
 def check_anagram(a,b):
     d1={}
